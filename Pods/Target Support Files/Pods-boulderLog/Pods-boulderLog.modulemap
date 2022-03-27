@@ -1,0 +1,6 @@
+framework module Pods_boulderLog {
+  umbrella header "Pods-boulderLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
